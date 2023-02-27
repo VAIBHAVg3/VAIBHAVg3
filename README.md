@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge]
-[![Linkedin Badge]
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge]StackOverflow-Aakash-yellow)
+
+[![Linkedin Badge]https://www.linkedin.com/in/vicky-gaikwad-827049267/
+
 
 
 I'm
