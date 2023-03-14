@@ -1,7 +1,4 @@
-### Hi Developers 👋
-
-
-[![Linkedin Badge](https://www.linkedin.com/in/vicky-gaikwad-827049267/)
+### Hi Developers
 
 
 
